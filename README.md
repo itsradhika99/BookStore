@@ -19,3 +19,11 @@ This is a full-stack Online Book Store project built using:
 ## Getting Started
 
 1. Clone this repo:
+
+2. Open in Visual Studio
+3. Run migrations and update database
+4. Press `F5` or `Ctrl+F5` to run the app
+
+---
+
+Made with ❤️ by Radhika
